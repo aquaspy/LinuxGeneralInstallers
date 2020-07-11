@@ -10,9 +10,10 @@ Then, the files will be moved to the correct location in your system. By default
 When you execute the installer.sh, all others files should left the folder. if some file is still there, you probably need to create some folder manually (I will update the script later so it will not happen anymore). After the installation, your program should appear in your DE menu (gnome, xfce, lxqt, kde and so on).
 
 ## Avaliable softwares:
--Waterfox Current
--Waterfox Classic
+- Waterfox Current
+- Waterfox Classic
 -
+dsadas
 
 
 ## Troubleshooting 
