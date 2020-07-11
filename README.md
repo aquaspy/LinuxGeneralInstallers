@@ -2,7 +2,7 @@
 Just some simple bash scripts that will install softwares that I love and use :)
 
 
-# Instructions
+## Instructions
 To use, just download the .zip package, unzip it and run the ProgramNameInstaller.sh (where ProgramName is the name of the program, like WaterfoxCurrentInstaller).
 
 Then, the files will be moved to the correct location in your system. By default, the apps are moved to .apps in your home folder and games are installed in .games folder in home too. Icons go to to your user home .local/share/icons and finally the .desktop app go to .local/share/applications (in your home user too)
