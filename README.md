@@ -12,8 +12,24 @@ When you execute the installer.sh, all others files should left the folder. if s
 ## Avaliable softwares:
 - Waterfox Current
 - Waterfox Classic
--
-dsadas
+- Bitwarden
+- Artix Game Launcher
+- Balena Etcher
+- Vscodium
+- Minecraft installer
+- Brave Browser
+- Stacer
+- Standard Notes
+- Technic Launcher
+- Cryptomator
+- Shotcut
+- Openshot
+- Osu! 
+
+
+## FAQ
+### Will you mantain everything updated 
+Well, I will try too, but I do not guarantee. However, the name of 
 
 
 ## Troubleshooting 
