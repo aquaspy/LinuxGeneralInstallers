@@ -9,10 +9,16 @@ Then, the files will be moved to the correct location in your system. By default
 
 When you execute the installer.sh, all others files should left the folder. if some file is still there, you probably need to create some folder manually (I will update the script later so it will not happen anymore). After the installation, your program should appear in your DE menu (gnome, xfce, lxqt, kde and so on).
 
+## Avaliable softwares:
+-Waterfox Current
+-Waterfox Classic
+-
+
 
 ## Troubleshooting 
 
 ### I don't trust your scripts because they come with a folder of the unziped binary
 Well, you don't need to. You can download your own binary for the program and use it with the scripts. Every script is open source and you can see what it is doing.
+
 
 
