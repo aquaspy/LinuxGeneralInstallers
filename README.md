@@ -24,7 +24,8 @@ When you execute the installer.sh, all others files should left the folder. if s
 - Cryptomator
 - Shotcut
 - Openshot
-- Osu! 
+- Osu!
+- LBRY
 
 
 ## FAQ
